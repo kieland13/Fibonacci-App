@@ -1,0 +1,10 @@
+E:\DCTC\Fall2020\NET2\FibonacciApp\FibonacciApp\bin\Debug\FibonacciApp.exe.config
+E:\DCTC\Fall2020\NET2\FibonacciApp\FibonacciApp\bin\Debug\FibonacciApp.exe
+E:\DCTC\Fall2020\NET2\FibonacciApp\FibonacciApp\bin\Debug\FibonacciApp.pdb
+E:\DCTC\Fall2020\NET2\FibonacciApp\FibonacciApp\obj\Debug\FibonacciApp.csprojAssemblyReference.cache
+E:\DCTC\Fall2020\NET2\FibonacciApp\FibonacciApp\obj\Debug\FibonacciApp.Properties.Resources.resources
+E:\DCTC\Fall2020\NET2\FibonacciApp\FibonacciApp\obj\Debug\FibonacciApp.csproj.GenerateResource.cache
+E:\DCTC\Fall2020\NET2\FibonacciApp\FibonacciApp\obj\Debug\FibonacciApp.csproj.CoreCompileInputs.cache
+E:\DCTC\Fall2020\NET2\FibonacciApp\FibonacciApp\obj\Debug\FibonacciApp.exe
+E:\DCTC\Fall2020\NET2\FibonacciApp\FibonacciApp\obj\Debug\FibonacciApp.pdb
+E:\DCTC\Fall2020\NET2\FibonacciApp\FibonacciApp\obj\Debug\FibonacciApp.AsynchronousTestForm.resources
